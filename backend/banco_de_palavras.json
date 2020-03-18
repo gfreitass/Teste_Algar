@@ -1,0 +1,12 @@
+ { "geladeira": [ 
+                     { 
+                         "resposta": "Verifique se sua geladeira está conectada na tomada e se o termostato está na temperatura certa.", 
+                         "sinonimos": ["não gela", "não resfria"] 
+                     },                      
+                     { 
+                         "resposta": "Barulhos são normais quando o produto está em funcionanmento", 
+                         "sinonimos": ["fazendo barulho", "som alto"] 
+                     } 
+                 ]
+             }
+     
